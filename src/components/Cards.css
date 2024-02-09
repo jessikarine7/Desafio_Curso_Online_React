@@ -1,0 +1,10 @@
+.card{
+  background-color: #110957;
+  /* opacity: 0.4; */
+  border: 30px solid teal.300;
+  border-radius: 10px ;
+}
+.cardText{
+  background-color: white;
+  opacity: 1;
+}
