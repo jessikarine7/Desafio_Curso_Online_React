@@ -1,7 +1,7 @@
 import React from "react"
 import App from "./App"
-import Form from "./Form"
-import Home from "./Home"
+import Form from "./Form/Form"
+import Home from "./Home/Home"
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom" 
 
 const AppRoutes = () => {

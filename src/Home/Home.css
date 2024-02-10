@@ -1,0 +1,11 @@
+@media (max-width: 1245px) {
+  .card{
+    display: flex;
+    flex-wrap: wrap;
+  }
+}
+@media (max-width: 500px) {
+  .title{
+    font-size: small;
+  }
+}

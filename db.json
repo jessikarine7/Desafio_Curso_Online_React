@@ -4,7 +4,7 @@
       "id": " 1 ",
       "name": "python",
       "header": "Curso Python Completo",
-      "text": "Neste curso você aprende a usar Python, desde o zero, criando toda a lógica de programação.",
+      "text": "Neste curso você irá aprender tudo que é necessário para dominar Python.",
       "hours": "120 horas",
       "image": {
         "url": "https://thumbs.dreamstime.com/b/ilustra%C3%A7%C3%A3o-editorial-do-logotipo-python-pro-em-fundo-branco-%C3%ADcone-pythi-logotipos-vetoriais-%C3%ADcones-de-conjunto-m%C3%ADdias-sociais-208329675.jpg"
@@ -14,7 +14,7 @@
       "id": "2",
       "name": "javascript",
       "header": "Curso Javascript Completo",
-      "text": "Neste curso você irá aprender tudo que é necessário para dominar o JavaScript.",
+      "text": "Neste curso você irá aprender tudo que é necessário para dominar JavaScript.",
       "hours": "220 horas",
       "image": {
         "url": "https://thumbs.dreamstime.com/b/ilustra%C3%A7%C3%A3o-do-logotipo-javascript-em-fundo-branco-editorial-tela-branca-para-download-banner-vetorial-jpeg-208329455.jpg"
@@ -24,7 +24,7 @@
       "id": "3",
       "name": "ruby",
       "header": "Curso Ruby Completo",
-      "text": "No curso de Ruby Developer você vai entender como é fácil criar e manipular códigos em Ruby.",
+      "text": "Neste curso você irá aprender tudo que é necessário para dominar Ruby.",
       "hours": "300 horas",
       "image": {
         "url": "https://cdn.icon-icons.com/icons2/2108/PNG/512/ruby_icon_130842.png"
@@ -34,7 +34,7 @@
       "id": " 4 ",
       "name": "c#",
       "header": "Curso C# Completo",
-      "text": "Neste curso você vai aprender tudo sobre programação orientada a objetos utilizando C#.",
+      "text": "Neste curso você irá aprender tudo que é necessário para dominar C#.",
       "hours": "140 horas",
       "image": {
         "url": "https://image.shutterstock.com/image-photo/image-260nw-1764554234.jpg"
@@ -51,54 +51,6 @@
           "cursos": "c#",
           "nome": "teste",
           "email": "teste"
-        }
-      ]
-    },
-    {
-      "id": "e2f9",
-      "Aluno": [
-        {
-          "idPessoa": "",
-          "password": "123",
-          "cursos": "python",
-          "nome": "teste2",
-          "email": "test2"
-        }
-      ]
-    },
-    {
-      "id": "183d",
-      "Aluno": [
-        {
-          "idPessoa": "",
-          "password": "456",
-          "cursos": "javascript",
-          "nome": "teste",
-          "email": "teste"
-        }
-      ]
-    },
-    {
-      "id": "6cc6",
-      "Aluno": [
-        {
-          "idPessoa": "",
-          "password": "4565",
-          "cursos": "ruby",
-          "nome": "teste3",
-          "email": "teste3"
-        }
-      ]
-    },
-    {
-      "id": "acf9",
-      "Aluno": [
-        {
-          "idPessoa": "",
-          "password": "4565",
-          "cursos": "ruby",
-          "nome": "teste3",
-          "email": "teste3"
         }
       ]
     }
